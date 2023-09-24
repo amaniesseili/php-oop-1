@@ -1,6 +1,4 @@
 <?php
-// Movie.php
-
 class Movie {
     // Dichiarazione delle variabili di istanza
     public $title;
